@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LatitudeClient/Main.cs">
+    <Files>
+      <File FileName="LatitudeClient/Main.cs" Line="50" Column="1" />
+      <File FileName="ThirdParty/SampleHelper/AuthorizationMgr.cs" Line="102" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bietiekay/Projects/LatitudeClient/LatitudeClient/Main.cs" line="45" />
+      <Breakpoint file="/Users/bietiekay/Projects/LatitudeClient/LatitudeClient/Main.cs" line="31" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
